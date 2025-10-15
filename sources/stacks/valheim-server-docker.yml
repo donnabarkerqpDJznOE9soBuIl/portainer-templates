@@ -15,3 +15,5 @@ services:
       - $HOME/valheim-server/valheim.env
     restart: always
     stop_grace_period: 2m
+
+# Update: 2025-10-15
